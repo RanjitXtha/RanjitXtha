@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Ranjit Shrestha</h1>
 <h3 align="center">A passionate full-stack web developer with a love for game dev and graphic design</h3>
 
 <p align="center">
@@ -30,25 +30,27 @@
 
 #### 🎮 Game Dev & Graphics:
 - Passion for indie game development & graphic design
+- Unity Engine
+- Adobe Photoshop & Illustrator
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RanjitXtha&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitXtha&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
 ### 📫 Let's Connect!
 
-- Portfolio: [Your Portfolio Link]
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- Portfolio: https://ranjitxtha.github.io/Portfolio/
+- LinkedIn: https://www.linkedin.com/in/ranjit-shrestha-b3a9b2308/
+- Email: shrestha.ranjit.np@gmail.com
 
 ---
 
