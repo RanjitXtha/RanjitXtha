@@ -50,7 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanjitXtha&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=RanjitXtha&theme=dark&hide_border=false)<br/>
+<p align="center>
+  ![](https://nirzak-streak-stats.vercel.app/?user=RanjitXtha&theme=dark&hide_border=false)
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RanjitXtha&icon=0&color=0)](https://visitcount.itsvg.in)
