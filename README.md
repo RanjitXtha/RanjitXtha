@@ -51,7 +51,7 @@
 </p>
 
 <p align="center>
-  ![](https://nirzak-streak-stats.vercel.app/?user=RanjitXtha&theme=dark&hide_border=false)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RanjitXtha&theme=dark&hide_border=false"/>
 </p>
 
 
