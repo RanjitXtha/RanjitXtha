@@ -39,25 +39,23 @@
 - HTML / CSS
 - JavaScript
 - React.js
-- Next.js (currently learning with Prisma & PostgreSQL)
+- Next.js
+- TypeScript
 - Tailwind CSS
+- GSAP
 
 #### ⚙️ Backend:
 - Node.js
 - Express.js
 - MongoDB
-- MySQL
-- PostgreSQL (learning)
-
-#### 🛠 Currently Exploring:
-- TypeScript
-- Next.js with Prisma
 - PostgreSQL
+- Strapi
+- Shopify(Headless CMS)
 
 #### 🎮 Game Dev & Graphics:
 - Passion for indie game development & graphic design
 - Unity Engine
-- Adobe Photoshop & Illustrator
+- Adobe Photoshop, Illustrator & Figma
 
 ---
 
